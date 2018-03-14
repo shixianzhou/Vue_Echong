@@ -3,7 +3,7 @@
 >  Vue.js project
 
 ## 第一天
-1.使用Vue脚手架创建项目 `npm install -g vue-cli,vue init webpack gshop`
+1.使用Vue脚手架创建项目 `npm install -g vue-cli,vue init webpack gshop`  
 2.建立基本路由 `npm install vue-router --save`  
 3.简单实现静态页面 
 ``` bash
